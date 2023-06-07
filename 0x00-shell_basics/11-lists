@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -al "$(dirname "$PWD")" / "$(dirname "$PWD")/.." /boot
+ls -al "$PWD" "$(dirname "$PWD")" /boot
