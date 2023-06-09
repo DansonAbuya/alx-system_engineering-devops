@@ -1,1 +1,1 @@
-Shell description repository
+Readme at the root of the repository
